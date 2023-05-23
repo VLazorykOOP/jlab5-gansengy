@@ -1,0 +1,3 @@
+Magazine,Magazine 1,Author 1,2021,1
+Magazine,Magazine 2,Author 2,2022,2
+Magazine,Magazine 3,Author 3,2023,3

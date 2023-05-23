@@ -1,0 +1,3 @@
+Textbook,Textbook 1,Author 1,2021,400,Subject 1
+Textbook,Textbook 2,Author 2,2022,500,Subject 2
+Textbook,Textbook 3,Author 3,2023,600,Subject 3

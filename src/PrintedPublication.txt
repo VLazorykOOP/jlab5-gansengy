@@ -1,0 +1,3 @@
+PrintedPublication,Title 1,Author 1,2021
+PrintedPublication,Title 2,Author 2,2022
+PrintedPublication,Title 3,Author 3,2023
